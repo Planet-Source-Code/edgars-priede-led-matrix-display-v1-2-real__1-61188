@@ -1,0 +1,12 @@
+		***LED Matrix Display v1.2***
+
+
+* Programmer: Edgars Priede
+
+* Graphics (Chars):Edgars Priede
+
+* Resource File (LEDMatrix.RES) created by Edgars Priede
+
+
+
+			E-Mail: edgars53@e-apollo.lv
